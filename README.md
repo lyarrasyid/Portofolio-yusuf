@@ -1,6 +1,6 @@
 # Yusuf Arrasyid Portfolio
 
-Fullstack Developer | IT System Support | D
+Fullstack Developer | IT System Support | Digital Specialist
 
 ## Tech Stack
 - PHP
@@ -9,4 +9,4 @@ Fullstack Developer | IT System Support | D
 - HTML, CSS, JavaScript
 
 ## Live Demo
-https://lyarrasyid.github.io/portofolio-yusuf
+https://lyarrasyid.github.io/Portofolio-yusuf
