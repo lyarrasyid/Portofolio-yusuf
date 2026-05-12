@@ -9,4 +9,4 @@ Fullstack Developer | IT System Support | Digital Specialist
 - HTML, CSS, JavaScript
 
 ## Live Demo
-https://lyarrasyid.github.io/Portofolio-yusuf
+https://lyarrasyid.github.io/portofolio-yusuf
