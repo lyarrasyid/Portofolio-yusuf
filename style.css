@@ -157,6 +157,7 @@ body {
     color: var(--text-muted);
     font-weight: 500;
     transition: color 0.2s;
+    display: block;
 }
 
 .nav-link:hover, .nav-link.active {
